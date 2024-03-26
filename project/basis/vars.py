@@ -1,7 +1,7 @@
 """
 This is vars.py file
 """
-
+#
 # vars - only links
 O1 = "object"
 O2 = O1
